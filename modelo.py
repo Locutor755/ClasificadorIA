@@ -1,0 +1,2 @@
+entrenar_modelo():
+    
